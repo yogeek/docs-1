@@ -1,3 +1,4 @@
+![CleanShot 2023-09-29 at 13 43 06@2x](https://github.com/crossplane/docs/assets/492942/d3fab13e-3ad7-4c4b-92fb-c7bdb710e31f)
 ---
 title: Crossplane Introduction
 weight: 2
@@ -178,7 +179,7 @@ resources. The _Composition_ is only a template for a collection of _managed
 resources_ and their settings. A _Composite Resource_ creates the specific resources.
 
 {{< hint "note" >}}
-The [_Composite Resources_]({{<ref "#composite-resources">}})_ section discusses
+The [_Composite Resources_]({{<ref "#composite-resources">}}) section discusses
 _Composite Resources_.
 {{< /hint >}}
 
